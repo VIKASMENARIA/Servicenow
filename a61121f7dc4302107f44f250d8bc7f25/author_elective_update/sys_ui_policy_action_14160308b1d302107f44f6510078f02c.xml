@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>other</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-05 08:18:15</sys_created_on>
+        <sys_id>14160308b1d302107f44f6510078f02c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>other</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">a61121f7dc4302107f44f250d8bc7f25</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">a61121f7dc4302107f44f250d8bc7f25</sys_scope>
+        <sys_update_name>sys_ui_policy_action_14160308b1d302107f44f6510078f02c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-05 08:18:15</sys_updated_on>
+        <table>x_cdltd_loaner_req_loaner_request</table>
+        <ui_policy display_value="Make ‘Other’ field visible and mandatory – Loaner Request">5cb54bc4b1d302107f44f6510078f09f</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">a61121f7dc4302107f44f250d8bc7f25</application>
+        <file_path/>
+        <instance_id>a52e4cef83cbce187fdd78426daad368</instance_id>
+        <instance_name>nowlearning-nlinst01855155-0001</instance_name>
+        <name>sys_ui_policy_action_14160308b1d302107f44f6510078f02c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>other</field><mandatory>true</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-05 08:18:15</sys_created_on><sys_id>14160308b1d302107f44f6510078f02c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>other</sys_name><sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">a61121f7dc4302107f44f250d8bc7f25</sys_package><sys_policy/><sys_scope display_value="Loaner Request">a61121f7dc4302107f44f250d8bc7f25</sys_scope><sys_update_name>sys_ui_policy_action_14160308b1d302107f44f6510078f02c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-05 08:18:15</sys_updated_on><table>x_cdltd_loaner_req_loaner_request</table><ui_policy display_value="Make ‘Other’ field visible and mandatory – Loaner Request">5cb54bc4b1d302107f44f6510078f09f</ui_policy><visible>true</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>2050528078</payload_hash>
+        <record_name>other</record_name>
+        <reverted_from/>
+        <source>23264673dc0702107f44f250d8bc7f07</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-05 08:18:15</sys_created_on>
+        <sys_id>85568744b1d302107f44f6510078f03d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19081f8f8000000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-05 08:18:15</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>c956874433d30210af33103119bf9b3c</update_guid>
+        <update_guid_history>c956874433d30210af33103119bf9b3c:2050528078</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-05 08:37:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>5495772d4d204d48a55fb2ae9e360690</sys_id>
+        <sys_metadata>14160308b1d302107f44f6510078f02c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>other</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">a61121f7dc4302107f44f250d8bc7f25</sys_package>
+        <sys_parent display_value="Make ‘Other’ field visible and mandatory – Loaner Request">5cb54bc4b1d302107f44f6510078f09f</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">a61121f7dc4302107f44f250d8bc7f25</sys_scope>
+        <sys_scope_delete display_value="">8d280a8d2b2d470c873b004d8f7cf204</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_14160308b1d302107f44f6510078f02c</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_14160308b1d302107f44f6510078f02c">85568744b1d302107f44f6510078f03d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-05 08:37:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
