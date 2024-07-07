@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Loaner Request">13915b3080db02107f44e337b7d20c17</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-07 17:03:00</sys_created_on>
+        <sys_id>5b9157b080db02107f44e337b7d20c31</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">a61121f7dc4302107f44f250d8bc7f25</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">a61121f7dc4302107f44f250d8bc7f25</sys_scope>
+        <sys_update_name>sc_cat_item_category_5b9157b080db02107f44e337b7d20c31</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-07 17:03:00</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">a61121f7dc4302107f44f250d8bc7f25</application>
+        <file_path/>
+        <instance_id>a52e4cef83cbce187fdd78426daad368</instance_id>
+        <instance_name>nowlearning-nlinst01855155-0001</instance_name>
+        <name>sc_cat_item_category_5b9157b080db02107f44e337b7d20c31</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Loaner Request">13915b3080db02107f44e337b7d20c17</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-07 17:03:00</sys_created_on><sys_id>5b9157b080db02107f44e337b7d20c31</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Loaner Request</sys_name><sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">a61121f7dc4302107f44f250d8bc7f25</sys_package><sys_policy/><sys_scope display_value="Loaner Request">a61121f7dc4302107f44f250d8bc7f25</sys_scope><sys_update_name>sc_cat_item_category_5b9157b080db02107f44e337b7d20c31</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-07 17:03:00</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>979915202</payload_hash>
+        <record_name>Can We Help You?.Loaner Request</record_name>
+        <reverted_from/>
+        <source>e7983ab0805b02107f44e337b7d20cc9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-07 17:03:00</sys_created_on>
+        <sys_id>9f9157b080db02107f44e337b7d20c34</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1908e261b100000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-07 17:03:00</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>d39157b0f4db021098abc60db93d5534</update_guid>
+        <update_guid_history>d39157b0f4db021098abc60db93d5534:979915202</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Loaner Request">af891ff880db02107f44e337b7d20cc2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-07 17:37:42</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>0cecb7619449437dabf8a1b7dfa37f59</sys_id>
+        <sys_metadata>5b9157b080db02107f44e337b7d20c31</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">a61121f7dc4302107f44f250d8bc7f25</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">a61121f7dc4302107f44f250d8bc7f25</sys_scope>
+        <sys_scope_delete display_value="">8d280a8d2b2d470c873b004d8f7cf204</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_5b9157b080db02107f44e337b7d20c31</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_5b9157b080db02107f44e337b7d20c31">9f9157b080db02107f44e337b7d20c34</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-07 17:37:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
